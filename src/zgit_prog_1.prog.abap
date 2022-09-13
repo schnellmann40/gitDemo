@@ -6,4 +6,4 @@
 REPORT ZGIT_PROG_1.
 
 
-write 'Hello World'.
+write 'Hello ABAPGIT World'.
